@@ -127,19 +127,19 @@ To update the API base URL, open:
 
 ## 📸 Demo Preview
 
-**Login and Authentication**
+### Login and Authentication
 ![Login](https://raw.githubusercontent.com/tonybhimani/flutter-flask-marketplace/refs/heads/media/marketplace_login.gif)
 
-**Edit a Listing (Price Change)**
+### Edit a Listing (Price Change)
 ![Edit Listing](https://raw.githubusercontent.com/tonybhimani/flutter-flask-marketplace/refs/heads/media/marketplace_edit.gif)
 
-**Upload Multiple Images**
+### Upload Multiple Images
 ![Upload Images](https://raw.githubusercontent.com/tonybhimani/flutter-flask-marketplace/refs/heads/media/marketplace_upload.gif)
 
-**Reorder Images by Dragging**
+### Reorder Images by Dragging
 ![Reorder Images](https://raw.githubusercontent.com/tonybhimani/flutter-flask-marketplace/refs/heads/media/marketplace_reorder.gif)
 
-**View Images in Media Gallery**
+### View Images in Media Gallery
 ![Media Gallery](https://raw.githubusercontent.com/tonybhimani/flutter-flask-marketplace/refs/heads/media/marketplace_media.gif)
 
 ---
