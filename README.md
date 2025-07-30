@@ -74,7 +74,7 @@ print(secrets.token_hex(32))
 ```bash
 cd backend
 python -m venv venv
-source venv/bin/activate      # On Windows: .\venv\Scripts\activate
+source venv/bin/activate      # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 ```bash
 cd backend/scripts
 python create_db.py           # Create database
-python create_db.py --seed    # Add dummy data
+python create_db.py --seed    # Add demo data
 ```
 
 #### d. Run the API server
@@ -147,9 +147,10 @@ To update the API base URL, open:
 ## 📌 Future Plans
 
 - Add pagination for listings
-- Implement refresh/login token support for persistent sessions
-- Add "log out all devices" feature
-- Explore mobile (Android/iOS) builds
+- ~~Implement refresh/login token support for persistent sessions~~
+- ~~Add "log out all devices" feature~~
+- ~~Explore mobile (Android/iOS) builds~~
+➡️ Not planning to integrate these anymore — but you can find a full Flask + Flutter FCM project with those features [here](https://github.com/tonybhimani/flask-session-manager).
 
 ---
 
